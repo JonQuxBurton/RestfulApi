@@ -1,0 +1,11 @@
+D:\Projects\RestfulApi\RestfulApi\bin\Debug\netcoreapp2.0\RestfulApi.deps.json
+D:\Projects\RestfulApi\RestfulApi\bin\Debug\netcoreapp2.0\RestfulApi.runtimeconfig.json
+D:\Projects\RestfulApi\RestfulApi\bin\Debug\netcoreapp2.0\RestfulApi.runtimeconfig.dev.json
+D:\Projects\RestfulApi\RestfulApi\bin\Debug\netcoreapp2.0\RestfulApi.dll
+D:\Projects\RestfulApi\RestfulApi\bin\Debug\netcoreapp2.0\RestfulApi.pdb
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.csproj.CoreCompileInputs.cache
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.AssemblyInfoInputs.cache
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.AssemblyInfo.cs
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.dll
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.pdb
+D:\Projects\RestfulApi\RestfulApi\obj\Debug\netcoreapp2.0\RestfulApi.csprojResolveAssemblyReference.cache
